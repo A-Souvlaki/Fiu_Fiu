@@ -55,14 +55,15 @@
 
     <ImageView
         android:id="@+id/imageView18"
-        android:layout_width="295dp"
-        android:layout_height="184dp"
-        android:layout_marginTop="50dp"
+        android:layout_width="286dp"
+        android:layout_height="177dp"
+        android:layout_marginTop="68dp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.4"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/sellerLoginGoBackBtn"
-        app:srcCompat="@drawable/brand_logov3"
-        tools:srcCompat="@drawable/brand_logov3" />
+        app:srcCompat="@drawable/brand_logov4"
+        tools:srcCompat="@drawable/brand_logov4" />
 
     <TextView
         android:id="@+id/textView33"

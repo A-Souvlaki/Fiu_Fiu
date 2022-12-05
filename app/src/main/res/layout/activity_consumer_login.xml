@@ -46,12 +46,13 @@
         android:id="@+id/imageView"
         android:layout_width="295dp"
         android:layout_height="184dp"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="48dp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.387"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/sellerLoginGoBackBtn"
-        app:srcCompat="@drawable/brand_logov3"
-        tools:srcCompat="@drawable/brand_logov3" />
+        app:srcCompat="@drawable/brand_logov4"
+        tools:srcCompat="@drawable/brand_logov4" />
 
     <EditText
         android:id="@+id/logInUserNameTextField"

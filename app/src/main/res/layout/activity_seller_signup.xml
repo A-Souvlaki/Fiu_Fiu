@@ -11,13 +11,13 @@
         android:id="@+id/imageView3"
         android:layout_width="315dp"
         android:layout_height="185dp"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="44dp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintHorizontal_bias="0.333"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/brand_logov3"
-        tools:srcCompat="@drawable/brand_logov3" />
+        app:srcCompat="@drawable/brand_logov4"
+        tools:srcCompat="@drawable/brand_logov4" />
 
     <Button
         android:id="@+id/sellerSignupGoBackBtn"
